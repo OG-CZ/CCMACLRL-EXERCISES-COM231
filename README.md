@@ -6,4 +6,6 @@ It demonstrates basic concepts of machine learning, including data preprocessing
 - Introduction to Machine Learning
 - Supervised learning
 - KNN
-- Linear Regression
+- Linear Regression and Multi Linear Regression
+- Logistic Regression
+- Naive Bayes
