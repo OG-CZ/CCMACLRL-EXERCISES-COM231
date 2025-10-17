@@ -12,3 +12,5 @@ It demonstrates basic concepts of machine learning, including data preprocessing
 - Logistic Regression
 - Naive Bayes
 - Support Vector Machine
+- Ensemble Learning
+- Random Forest
