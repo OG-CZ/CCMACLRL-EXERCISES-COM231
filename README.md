@@ -1,16 +1,19 @@
-### CCMACLRL - Introduction to Machine Learning
+# **CCMACLRL**
+## Introduction to machine learning
 
-This repository contains projects and exercises for the **CCMACLRL course on Machine Learning**.  
-It demonstrates basic concepts of machine learning, including data preprocessing, model training, evaluation, and prediction.
+This repository contains all of the python code implementations of each topic in the course outline for introduction to machine learning.
 
-#### Topic discussed
+Course Outline: https://believed-bongo-319.notion.site/CCMACLRL-0039e9d93e324e7caa2245a93817fac9?pvs=4
 
-- Introduction to Machine Learning
-- Supervised learning
-- KNN
-- Linear Regression and Multi Linear Regression
-- Logistic Regression
-- Naive Bayes
-- Support Vector Machine
-- Ensemble Learning
-- Random Forest
+| Topic |
+|:-----:|
+| Basic Python, Pandas, matplotlib |
+| Introduction to Machine Learning |
+| K Nearest Neighbors |
+| Simple Linear Regression |
+| Multiple Linear Regression |
+| Logistic Regression |
+| Naive Bayes |
+| Support Vector Machine |
+| Decision Trees |
+| Ensemble Learning and Random Forest |
